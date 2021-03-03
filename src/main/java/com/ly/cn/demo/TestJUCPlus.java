@@ -1,4 +1,4 @@
-package com.ly.cn;
+package com.ly.cn.demo;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
